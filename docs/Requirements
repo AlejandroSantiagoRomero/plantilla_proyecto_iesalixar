@@ -1,6 +1,7 @@
 ###Alcanze del proyecto
 #Tareas que mi proyecto llevara acabo:
 -Permite logarse a los usuario registrados.
+-Permite registrarse a todos los usuario que visiten la pagina y no esten logeados.
 -Se manegaran roles de usuarios creando un sistema de permisos y roles.
 -Debera ofrecer un catalogo de videojuegos actuales con su respectiva descripcion e imagenes y videos.
 -Sera capaz de habilitar una opcion no obligatoria de uso interactivo (concepto a definir en otro documento).
